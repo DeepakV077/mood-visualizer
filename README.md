@@ -103,5 +103,3 @@ If your contribution is Pygame-related, consider reading the Pygame contribution
 This project is provided under the MIT license. Use freely, and please attribute if you publish derived work.
 
 ---
-
-If anything in this README is unclear or you'd like a shorter quick-start, tell me exactly how you like to run things (venv path, preferred Python version) and I'll tailor the steps to your environment.
