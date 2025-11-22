@@ -1,0 +1,4 @@
+{
+    // Recommended interpreter for this workspace (adjust if your venv path differs)
+    "python.defaultInterpreterPath": "D:/intentPredict/.venv/Scripts/python.exe"
+}
